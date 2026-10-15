@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/me/Coding/C++/Cryptography/out/build/Clang",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Cryptography.dir/main.cpp.o -c /home/me/Coding/C++/Cryptography/main.cpp",
+  "file": "/home/me/Coding/C++/Cryptography/main.cpp",
+  "output": "CMakeFiles/Cryptography.dir/main.cpp.o"
+}
+]

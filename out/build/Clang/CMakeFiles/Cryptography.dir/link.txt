@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/Cryptography.dir/link.d CMakeFiles/Cryptography.dir/main.cpp.o -o Cryptography
